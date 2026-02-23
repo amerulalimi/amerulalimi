@@ -19,5 +19,5 @@ My experience includes:
 ## Contact
 
 Email: alimiamerul@gmail.com  
-LinkedIn: linkedin.com/in/amerul-alimi  
-Portfolio: portfolio-amerul.netlify.app
+LinkedIn: [linkedin.com/in/amerul-alimi](https://linkedin.com/in/amerul-alimi)  
+Portfolio: [portfolio-amerul.netlify.app](https://portfolio-amerul.netlify.app/)
